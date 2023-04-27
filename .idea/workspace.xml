@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf9f7215-304e-4e1d-a3d4-46b74732e477" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modulos/IManejoUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulos/Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulos/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulos/Usuario.java" afterDir="false" />
+    <list default="true" id="bf9f7215-304e-4e1d-a3d4-46b74732e477" name="Changes" comment="Initial commit">
+      <changelist_data name="LGiuglietti" email="lauchax129@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/src/Modulos/Plato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulos/IManejoUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulos/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulos/Local.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulos/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulos/Sistema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulos/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulos/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +22,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LGiuglietti &lt;lauchax129@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2P1RxCaOcsRxxI2Y0pJZiT1Qion" />
   <component name="ProjectLevelVcsManager">
@@ -50,5 +62,9 @@
       <updated>1682622849339</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
